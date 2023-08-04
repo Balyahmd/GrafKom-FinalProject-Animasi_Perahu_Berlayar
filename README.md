@@ -13,5 +13,9 @@
 | Dosen Pengampu | Udkhiati Mawaddah,S.Kom.,M.kom |
 
 ## Grafika Komputer
-Latar Belakang :   
+Latar Belakang : 
+Banyaknya ditemukan adanya pembuatan animasi atau gambar bergerak yang mendorong untuk mencari tau bagaimana membuatnya,kenapa dia menjadi semenarik itu dengan memahami aplikasi yang mungkin digunakan.
+P5.js adalah javascipt library yang digunakan untuk membuat sketch, gambar, desain, di web canvas. P5.js merupakan implementasi dari processing khusus untuk web. Processing sendiri adalah software sekaligus pemograman untuk visual art, prototype, dan animasi untuk pembelajaran.
+Tema  “Perahu Berlayar” ini diambil karena untuk  memberikan edukasi dan motivasi untuk berkarnya dengan membuat animasi sederhana. Selain Itu animasi untuk mengigatkan kita bahwa negara Indonesia merupakan Negara kepulauan dan maritime yang wilayahnya mayoritas adalah lautan.
+
 ### Live Preview
