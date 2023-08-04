@@ -19,3 +19,4 @@ P5.js adalah javascipt library yang digunakan untuk membuat sketch, gambar, desa
 Tema  “Perahu Berlayar” ini diambil karena untuk  memberikan edukasi dan motivasi untuk berkarnya dengan membuat animasi sederhana. Selain Itu animasi untuk mengigatkan kita bahwa negara Indonesia merupakan Negara kepulauan dan maritime yang wilayahnya mayoritas adalah lautan.
 
 ### Live Preview
+![Animasi Kami](https://github.com/BalyaAWfa/GrafKom-FinalProject-Animasi_Perahu_Berlayar/blob/main/Tampilan.png)
