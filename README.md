@@ -1,5 +1,5 @@
 # Animasi Kapal Berlayar
-# Data Kelompok
+# Kelompok 5
 
 |  |  |
 |--|--|
