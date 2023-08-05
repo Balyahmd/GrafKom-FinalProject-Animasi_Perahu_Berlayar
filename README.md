@@ -23,7 +23,7 @@ Tema  “Perahu Berlayar” ini diambil karena untuk  memberikan edukasi dan mot
 
 [source code disini](https://editor.p5js.org/HAFIDJR/sketches/59CVco15f)
 
-##Dokumentasi
-[Ini Dokumentasi]()
+### Dokumentasi
+[Ini Dokumentasi](https://github.com/BalyaAWfa/GrafKom-FinalProject-Animasi_Perahu_Berlayar/tree/main/Dokumentasi)
 
 ### Presentasi
